@@ -23,6 +23,7 @@
         "backgroundColor": "#FFFFFF"
       }
     },
+    //added /app
     "web": {
       "favicon": "./app/assets/favicon.png"
     }
